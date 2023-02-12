@@ -1,3 +1,3 @@
 # Coderhouse-DataScience
 
-El siguiente archivo presenta 3 de los datasets que fueron seleccionados, así como sus respectivos datasets, a excepción de los vuelos con retraso debido a que el archivo es muy pesado
+Este repositorio es para la colección de entregas del curso de Data Science impartido por la organización Coderhouse :D
